@@ -1,0 +1,13 @@
+Sun Oct 22 16:07:48 2017 - Socket created successfully.
+Sun Oct 22 16:07:48 2017 - The address was bound to the socket successfully.
+Sun Oct 22 16:07:56 2017 - The call to accept a connection was successful. Waiting for a connection.
+Sun Oct 22 16:07:56 2017 - Connection made. Sending user to status page.
+Sun Oct 22 16:07:56 2017 - 1.0.0.0 accessed the sever.
+Sun Oct 22 16:07:56 2017 - The call to accept a connection was successful. Waiting for a connection.
+Sun Oct 22 16:07:56 2017 - Connection made, but not for status page. Sending user to 404 error page
+Sun Oct 22 16:07:56 2017 - The call to accept a connection was successful. Waiting for a connection.
+Sun Oct 22 16:07:56 2017 - Connection made, but not for status page. Sending user to 404 error page
+Sun Oct 22 16:08:03 2017 - The call to accept a connection was successful. Waiting for a connection.
+Sun Oct 22 16:08:03 2017 - Connection made, but not for status page. Sending user to 404 error page
+Sun Oct 22 16:11:56 2017 - The server has shutdown.
+Sun Oct 22 16:11:56 2017 - The call to accept a connection was not successful.
